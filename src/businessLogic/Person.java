@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author dfeli
+ * @author DIEGO FELIPE LOPEZ AVILA
  */
 public class Person {
     private String name;

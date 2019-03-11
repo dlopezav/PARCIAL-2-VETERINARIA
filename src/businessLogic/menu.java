@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author dlopezav
+ * @author DIEGO FELIPE LOPEZ AVILA
  */
 public class menu {
 

@@ -7,7 +7,7 @@ package businessLogic;
 
 /**
  *
- * @author dfeli
+ * @author DIEGO FELIPE LOPEZ AVILA
  */
 public class Dog extends Pet{
     private String breed;

@@ -7,7 +7,7 @@ package businessLogic;
 
 /**
  *
- * @author dfeli
+ * @author DIEGO FELIPE LOPEZ AVILA
  */
 public abstract class Pet {
     private String id;

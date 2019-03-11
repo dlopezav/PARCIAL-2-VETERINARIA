@@ -21,7 +21,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author dfeli
+ * @author DIEGO FELIPE LOPEZ AVILA
  */
 public class Starter {
     public static ArrayList<Person> personas;
@@ -164,7 +164,7 @@ public class Starter {
                     }
                 }
                 if(bobo==false){
-                    ////////////////////////////AQUI SE MIRA QUE LA PERSONA NO EXITA YA ///////////////////////////////////////
+                    ////////////////////////////AQUI SE MIRA QUE LA PERSONA NO EXITA EN LA BASE ///////////////////////////////////////
                     Person person = new Person(y[0],y[1]);
                     person.getPets().add(pet);
                     personas.add(person);

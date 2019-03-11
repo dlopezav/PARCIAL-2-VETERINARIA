@@ -7,7 +7,7 @@ package businessLogic;
 
 /**
  *
- * @author dfeli
+ * @author DIEGO FELIPE LOPEZ AVILA
  */
 public class Cat extends Pet{
     private boolean isHunter;

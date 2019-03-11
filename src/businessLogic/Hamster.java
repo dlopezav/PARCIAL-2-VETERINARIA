@@ -7,7 +7,7 @@ package businessLogic;
 
 /**
  *
- * @author dfeli
+ * @author DIEGO FELIPE LOPEZ AVILA
  */
 public class Hamster extends Pet{
     public double weight;
