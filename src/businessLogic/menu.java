@@ -20,7 +20,11 @@ public class menu {
         int y=0;
         System.out.println("1. Remover mascotas dando id\n2. Escoja el tipo de mascota que quiere listar\n3. Finalizar ventana y listar mascotas");
         Scanner x = new Scanner(System.in);
+        try{
         y = x.nextInt();
+        }catch(Exception e){
+            System.out.println("Ha ingresado mal el dato");
+        }
         return y;
     }
             
