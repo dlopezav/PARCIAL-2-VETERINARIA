@@ -67,7 +67,7 @@ public class Starter {
                         }
                     }
                     starter.ReadPets(vet);
-                    
+                    System.out.println("La ha removido exitosamente");
                     
                 
                 break;
